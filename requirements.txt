@@ -1,0 +1,5 @@
+pyqt5==5.9.2
+screeninfo==0.3
+pyuserinput==0.1.11
+ws4py==0.4.3
+cherrypy==13.1.0
